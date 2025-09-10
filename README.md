@@ -6,7 +6,7 @@ An AI-powered career transition tool that recommends personalized learning paths
 
 This interactive web application helps professionals find their optimal learning path to become AI Product Managers by analyzing their background, experience level, timeline goals, and learning preferences. The recommendations are based on real market trends, salary data, and industry insights from 2025.
 
-**Live Demo:** [Add your Netlify URL here when deployed]
+**Live Demo:** https://sonakshiv10-aws.github.io/brainstation-learning-path-finder/
 
 ## 🚀 Key Features
 
